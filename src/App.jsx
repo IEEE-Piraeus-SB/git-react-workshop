@@ -21,7 +21,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>My dogshit todo app !!!</h1>
+        <h1>My dogshit todo app !!</h1>
       </header>
       <button onClick={handleClick}>Add Note</button>
       <ul>
