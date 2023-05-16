@@ -21,7 +21,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>My dogshit todo app !</h1>
+        <h1>These changes are only local to my branch!</h1>
       </header>
       <button onClick={handleClick}>Add Note</button>
       <ul>
